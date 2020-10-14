@@ -1,0 +1,18 @@
+/*
+*
+* Author: Adityan
+* Github: https://github.com/Adityan-compile
+* 
+*/
+
+body {
+  padding: 30px;
+  margin: 0px;
+}
+
+#output {
+  outline: none;
+}
+#code {
+  outline: none;
+}
